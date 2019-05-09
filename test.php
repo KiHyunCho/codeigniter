@@ -2,12 +2,6 @@
 /**
  * Created by PhpStorm.
  * User: Master
-<<<<<<< HEAD
- * Date: 2019-05-08
- * Time: 오후 3:26
- */
-echo "Test";
-=======
  * Date: 2019-04-25
  * Time: 오전 10:02
  */
