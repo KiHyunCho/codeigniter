@@ -150,7 +150,7 @@ for($i=1; $i<=10; $i++)
 function solution3($A){
 
     $result = 1;
-    $A[0]
+    $A[0];
     return $result;
 }
 
